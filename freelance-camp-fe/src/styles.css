@@ -1,0 +1,12 @@
+body {
+  background-color: #252830;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.card {
+	margin-bottom: 10px;
+}
+
+.headline {
+	color: white;
+}
